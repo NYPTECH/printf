@@ -46,3 +46,9 @@ char *string_to_upper(char *s)
 		if (is_lowercase(s[i]))
 		{
 			s[i] = s[i] - 32;
+		}
+	}
+
+	return (s);
+}
+

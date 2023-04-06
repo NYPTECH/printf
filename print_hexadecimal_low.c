@@ -17,4 +17,3 @@ int print_hexadecimal_low(va_list list)
 
 	return (size);
 }
-
